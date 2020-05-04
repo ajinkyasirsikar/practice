@@ -176,7 +176,9 @@ aside {
     display: inline-block;
     margin-right: 0.75em;
 }
-
+.link:hover h2 {
+    transform: rotate(@deg);
+}
 
 /*** Footer Styling ***/
 footer {
